@@ -6,3 +6,6 @@ Resolusi
  
 Edit
  - Belajar framework js
+ 
+Tambahan
+ - Belajar Java
