@@ -3,3 +3,6 @@ Resolusi
  - Belajar html
  - Belajar css
  - Belajar javascript
+ 
+Edit
+ - Belajar framework js
